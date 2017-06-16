@@ -1,0 +1,7 @@
+{
+  "name": "test github and heroku",
+  "description": "A barebones php app",
+  "repository": "https://github.com/nehamangla/test.git",
+  "logo": "",
+  "keywords": ["php"]
+}
