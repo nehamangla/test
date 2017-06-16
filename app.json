@@ -2,6 +2,6 @@
   "name": "test github and heroku",
   "description": "A barebones php app",
   "repository": "https://github.com/nehamangla/test.git",
-  "logo": "",
+  "logo": "https://github.com/nehamangla/test/blob/master/logo.jpg",
   "keywords": ["php"]
 }
